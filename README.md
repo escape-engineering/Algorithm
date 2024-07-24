@@ -4,11 +4,11 @@
 
 ## 커밋 규칙
 
-**\*2024.7.24부터 시작**
+***2024.7.24부터 시작**
 
 ### Format
 
-#### {Keyword}: [{#Issue}] {출처} {난이도} {제목}
+#### Keyword: [{#Issue}] {출처} {난이도} {제목}
 
 -   레포지토리 내 Issues에 문제와 관련한 자료구조/알고리즘 이슈 추가
 -   문제 Commit 시 가능하다면 관련 이슈 넘버 태그
@@ -28,8 +28,8 @@
 
 ## 이전 알고리즘 풀이
 
-**\*2022~2023초 / 2024~2024.7까지의 풀이**
+***2022~2023초 / 2024~2024.7까지의 풀이**
 
-### 📁 [2022~2023: Tistory](https://codingpracticenote.tistory.com/category/1%EC%B0%A8%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98📁-Tistory)
+### 📁 [2022~2023: Tistory](https://codingpracticenote.tistory.com/category/1%EC%B0%A8%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
-### 📁 [2024~2024.07: Tistory](https://codingpracticenote.tistory.com/category/2%EC%B0%A8%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98📁-Tistory)
+### 📁 [2024~2024.07: Tistory](https://codingpracticenote.tistory.com/category/2%EC%B0%A8%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
