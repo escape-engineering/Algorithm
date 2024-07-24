@@ -28,7 +28,7 @@
 
 ## 이전 알고리즘 풀이
 
-***2022~2023초 / 2024~2024.7까지의 풀이**
+***2022-2023초 / 2024-2024.7까지의 풀이**
 
 ### 📁 [2022~2023: Tistory](https://codingpracticenote.tistory.com/category/1%EC%B0%A8%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
