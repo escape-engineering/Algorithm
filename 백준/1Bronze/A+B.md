@@ -1,34 +1,28 @@
-# [Hello_World]
-
-[구현](https://www.acmicpc.net/problem/2557)
-
 ## 문제
 
-Hello World!를 출력하시오.
+두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
 
 ## 입력
 
-없음
+첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)
 
 ## 출력
 
-Hello World!를 출력하시오.
+첫째 줄에 A+B를 출력한다.
 
 ## 제한
 
 ## 예제 입력 1 복사
 
+```
+1 2
+```
+
 ## 예제 출력 1 복사
 
 ```
-Hello World!
+3
 ```
-
-## 힌트
-
-## 알고리즘 분류
-
--   [구현](https://www.acmicpc.net/problem/tag/102)
 
 ## 첫번째 풀이
 
@@ -46,7 +40,8 @@ readline
     })
     .on("close", function () {
         /*솔루션 작성*/
-        console.log('Hello World!')
+        const [a,b] = input
+        console.log(a+b)
         /*솔루션 작성완료*/
         process.exit();
     });

@@ -91,4 +91,5 @@
 | 24.09.19 | [같은숫자는싫어](/프로그래머스/lv1/같은숫자는싫어.md) | solve |
 | 24.09.20 | [미로탈출](/프로그래머스/lv2/미로탈출.md) | fail |
 | 24.09.24 | [광물캐기](/프로그래머스/lv2/광물캐기.md) | fail |
-| 24.09.24 | [Hello_World](/백준/1Bronze/Hello_World.md) | solve |
+| 24.10.10 | [Hello_World](/백준/1Bronze/Hello_World.md) | solve |
+| 24.10.11 | [A+B](/백준/1Bronze/A+B.md) | solve |
