@@ -95,3 +95,4 @@
 | 24.10.10 | [Hello_World](/백준/1Bronze/Hello_World.md) | solve |
 | 24.10.11 | [A+B](/백준/1Bronze/A+B.md) | solve |
 | 24.10.11 | [구구단](/백준/1Bronze/구구단.md) | solve |
+| 24.10.11 | [단어의_개수](/백준/1Bronze/단어의_개수.md) | solve |
