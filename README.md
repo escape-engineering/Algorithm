@@ -15,6 +15,7 @@
 #### Keyword: [{#Issue}] {출처} {난이도} {제목}
 
 -   ex) solve: [#2] 프로그래머스 lv2 기능개발
+-   ex) solve: [#2] 백준 bronze2 단어의_개수
 -   레포지토리 내 Issues에 문제와 관련한 자료구조/알고리즘 이슈 추가
 -   문제 Commit 시 가능하다면 관련 이슈 넘버 태그
 -   알고리즘 문제 추가 시 README의 표에도 추가
@@ -93,3 +94,4 @@
 | 24.09.24 | [광물캐기](/프로그래머스/lv2/광물캐기.md) | fail |
 | 24.10.10 | [Hello_World](/백준/1Bronze/Hello_World.md) | solve |
 | 24.10.11 | [A+B](/백준/1Bronze/A+B.md) | solve |
+| 24.10.11 | [구구단](/백준/1Bronze/구구단.md) | solve |
